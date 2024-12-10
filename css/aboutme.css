@@ -1,0 +1,172 @@
+
+.topbar{
+   display: inline-block;
+    height: 7vh;
+    width: 100vw;
+    background-color: rgb(205, 203, 203);
+    border-radius: 2px;
+    top:0;
+  
+
+}
+
+span{
+   text-align: center;
+   margin: 0;
+   padding: 0;
+    border-style: inset;
+    border-radius: 20px;
+    width: 200px;
+    border-color: aliceblue;
+    background-color: rgb(136, 179, 218);
+    display: inline-block;
+    font-size: 15px;
+}
+
+a{
+   text-decoration: none;
+   color: white;
+}
+
+a:hover{
+   color: rgb(231, 224, 154);
+}
+
+.p1{
+   margin-left: 990px;
+   display: inline;
+   font-size: 0px;
+}
+
+.p2{
+  
+   margin: 7;
+   margin-left: 200px;
+   margin-right: 1000px;
+   border-style: inset;
+   border-color: rgb(215, 217, 217);
+   background-color: aliceblue;
+   font-size: 17px;
+}
+
+.b{
+  
+   
+    bottom: 0;
+    left: 0; 
+    width: 100%; 
+    height: 10vh; 
+    background-color: rgb(205, 203, 203);
+    
+
+}
+
+.p3{
+   margin: 0;
+  padding: 0;
+   margin-left: 1200px;
+   border-style: inset;
+   width: 200px;
+   border-color: aliceblue;
+   background-color: aliceblue;
+   display: block;
+}
+
+
+a{
+   display: inline;
+   text-decoration: none;
+   color: white;
+   display: block;
+   padding: 10px;
+   line-height: 50px;
+   
+}
+
+a:hover{
+   color: rgb(231, 224, 154);
+
+}
+
+
+.side-bar {
+
+   width: 15%; 
+   background-color:  rgb(169, 188, 210);
+   padding: 20px;
+   border-radius: 0px 10px 10px 0px;
+   margin-top: 7px;
+   height: 90vh;
+  font-family: Amaranth;
+}
+
+.container {
+   display: flex; 
+   align-items: flex-start; 
+   margin: 20px; 
+}
+
+
+
+h1{
+   text-align: center;
+   margin-left: 80px;
+  font-family: Ubuntu;
+   margin-right: 35px;
+}
+
+h2{
+   font-family: Ubuntu;
+}
+
+.contents{
+   flex: 1; 
+   margin-left: 10px; 
+   padding-top: 20px; }
+
+
+
+.japan, .winter, .friends{
+   margin: 0;
+   padding: 0;
+   display: block;
+   
+}
+
+.image-row{
+   display: flex; 
+   justify-content: center; 
+   gap: 20px; 
+   margin: 20px 0;}
+
+
+
+.aboutme-p1, .aboutme-p2 {
+   text-align: center;
+   margin: 0 auto; 
+   width: 80%; 
+   border-style: dashed;
+   border-color:rgb(232, 175, 206) ;
+   border-width: 5px;
+   font-family: Ubuntu;
+}
+
+
+
+img{
+
+   display: block;
+    margin: 10px auto; 
+    border-radius: 30px;
+}
+
+h2{
+   text-align: center;
+}
+
+
+
+.taipei{
+   margin-left: 380px;
+}
+

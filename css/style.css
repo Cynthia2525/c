@@ -1,0 +1,110 @@
+.big-background{
+margin: 0px;
+padding: 60px;
+width: 1300px;
+height: 800px;
+background-color:  rgb(169, 188, 210);
+
+
+
+}
+.All-background{
+    width: 900px;
+    height: 580px;
+    background-color:rgb(231, 228, 187);
+    
+    margin: 0;
+    margin-left: 17%;
+    margin-top: 110px;
+    margin-bottom: 5%;
+    border-radius: 30px;
+
+}
+
+.left-box{
+    width:  170px;
+    height: 580px;
+    border-radius: 30PX 0PX 0PX 30PX;
+     background-color:rgb(211, 210, 208);
+    margin: 0;
+    margin-bottom: 200px;
+    
+
+}
+
+.star-sign{
+    width: 70%;
+    margin-left: 15%;
+   
+
+}
+
+.name{
+    width:  200px;
+    height: 50px;
+    font-size: 110%;
+    margin-left: 0%;
+    color: rgb(60, 58, 58);
+    text-shadow: -2px 2px 2px rgb(240, 240, 179);
+
+}
+
+.lists{
+    width:  200px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    font-size: 110%;
+    margin-left: 15%;
+    text-align: left;
+    line-height: 55px;
+    font-family: Amaranth;
+}
+
+.heading{
+    margin-left: 350%;
+    font-size: 120%;
+    text-align: center;
+    display:inline-block
+}
+
+.photo img{
+    margin-left: 500px; 
+    margin-top: -400px; 
+    display: block; 
+    border-radius: 20px;
+ 
+}
+
+.fa-solid fa-magnifying-glass{
+    width: 900px;
+    height: 580px;
+    
+
+}
+
+.up li{
+    margin-left: 300px;
+    margin-bottom: 40px;
+}
+
+.search-bar{
+    margin: 0;
+    padding: 0;
+    margin-right: 0;
+    margin-left: 300px;
+    font-size: 1.5em;
+    font-family: Lilita One;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(7, 7, 7);
+}
+
+a:hover{
+    background-color: rgb(123, 146, 172);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+   
+}
